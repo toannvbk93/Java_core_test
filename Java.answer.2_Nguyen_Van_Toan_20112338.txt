@@ -3,7 +3,7 @@
 03 ク
 04 ア
 05 ケ
-06 Run result: [I@1242719c　ですから、答えを選んません
+06 Run result: [I@1242719c　（http://www.artima.com/insidejvm/ed2/jvm6.html）　ですから、答えを選んません
 07 ア
 08 イ
 09 イ
